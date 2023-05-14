@@ -1,0 +1,25 @@
+{
+  "name": "ab-newsapi-x-google-sheets",
+  "version": "1.0.0",
+  "description": "A simple Apps Script code to fetch news with user selected keywords into Google Sheets.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingAvisek/AB-NewsAPI-x-Google-Sheets.git"
+  },
+  "keywords": [
+    "sheets",
+    "newsapi",
+    "get",
+    "fetch"
+  ],
+  "author": "Abhishek Ghimire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pingAvisek/AB-NewsAPI-x-Google-Sheets/issues"
+  },
+  "homepage": "https://github.com/pingAvisek/AB-NewsAPI-x-Google-Sheets#readme"
+}
