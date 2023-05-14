@@ -15,3 +15,8 @@ A simple Apps Script code to fetch news with user selected keywords into Google 
 ```Info
     Now should be able to fetch data directly into your Google Sheets.
 ```
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/pingAvisek/AB-NewsAPI-x-Google-Sheets/main/Screenshot.png)
+
